@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T14:12:34.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.5" etag="Bbm5r4FCBR0wIQYAh978" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T14:19:53.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="kyzopLUFIMEpOOp6m-Ji" version="23.1.5" type="github">
   <diagram name="Seite-1" id="dMgD5sMNgH4sBFSDKNPC">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WYcQuzejLf0naWVC59Ej-3" value="Audiometrie" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WYcQuzejLf0naWVC59Ej-4" value="&lt;b&gt;HpTF &amp;amp; HRTF&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WYcQuzejLf0naWVC59Ej-6" value="&lt;b&gt;Training&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WYcQuzejLf0naWVC59Ej-7" value="&lt;div&gt;&lt;b&gt;Ambisonics&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Optitrack Calibration&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; - itaToolbox Head-Marker-Calib&lt;br&gt;&amp;nbsp; - Referenz-Richtungen(0°, 90°, 180°)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Versuchsdurchlauf&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="360" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WYcQuzejLf0naWVC59Ej-8" value="&lt;div&gt;&lt;b&gt;Binaural&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Optitrack Calibration&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; - itaToolbox Head-Marker-Calib&lt;br&gt;&amp;nbsp; - Referenz-Richtungen(0°, 90°, 180°)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Versuchsdurchlauf&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="240" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
