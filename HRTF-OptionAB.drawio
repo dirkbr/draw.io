@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T09:59:57.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="NTkIXMg_JuK4E4yoSm1N" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T10:41:39.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="pIULyvUOobyPnlWHXPmS" version="24.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1195" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="200" math="0" shadow="0">
       <root>
@@ -75,6 +75,12 @@
         </mxCell>
         <mxCell id="sUJrWVIuPAr-GtkHxzEH-24" value="Headphones" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;shadow=0;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="760" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2XWpZSwJOmXR_3aJg2Dl-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Variant A&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2XWpZSwJOmXR_3aJg2Dl-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Variant B&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="390" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
