@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T16:16:06.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="c5y2yhwFoHmDQXJthnAT" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T16:16:37.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="BPf9wB-7zB66N_Z_W4Br" version="24.3.0" type="github">
   <diagram name="Seite-1" id="lBsKqySSM6oOxTu_qRCb">
     <mxGraphModel dx="1195" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="TdWRioPovqllGPAN-fCa-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TdWRioPovqllGPAN-fCa-7" target="TdWRioPovqllGPAN-fCa-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TdWRioPovqllGPAN-fCa-7" value="&lt;div&gt;HOA&lt;/div&gt;&lt;div&gt;Virtual Encoding&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;shadow=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="TdWRioPovqllGPAN-fCa-7" value="&lt;div&gt;HOA&lt;/div&gt;&lt;div&gt;virtual encoding&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;shadow=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TdWRioPovqllGPAN-fCa-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TdWRioPovqllGPAN-fCa-12" target="TdWRioPovqllGPAN-fCa-22">
@@ -31,7 +31,7 @@
         <mxCell id="TdWRioPovqllGPAN-fCa-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TdWRioPovqllGPAN-fCa-17" target="TdWRioPovqllGPAN-fCa-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TdWRioPovqllGPAN-fCa-17" value="&lt;div&gt;SCaLAr&lt;/div&gt;&lt;div&gt;(68-Speaker)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;shadow=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="TdWRioPovqllGPAN-fCa-17" value="&lt;div&gt;SCaLAr&lt;/div&gt;&lt;div&gt;(68 speaker)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;shadow=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="600" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TdWRioPovqllGPAN-fCa-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TdWRioPovqllGPAN-fCa-19" target="TdWRioPovqllGPAN-fCa-12">
@@ -43,7 +43,7 @@
         <mxCell id="TdWRioPovqllGPAN-fCa-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TdWRioPovqllGPAN-fCa-22" target="TdWRioPovqllGPAN-fCa-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TdWRioPovqllGPAN-fCa-22" value="&lt;div&gt;single&lt;/div&gt;&lt;div&gt;Loudspeaker&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;shadow=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="TdWRioPovqllGPAN-fCa-22" value="&lt;div&gt;single&lt;/div&gt;&lt;div&gt;loudspeaker&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;shadow=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="600" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TdWRioPovqllGPAN-fCa-23" value="Participant" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;shadow=0;fontSize=15;" vertex="1" parent="1">
