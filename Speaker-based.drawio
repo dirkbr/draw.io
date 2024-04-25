@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T16:16:37.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="BPf9wB-7zB66N_Z_W4Br" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T16:16:46.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="VpURNC6QLQVu4m3IX3H9" version="24.3.0" type="github">
   <diagram name="Seite-1" id="lBsKqySSM6oOxTu_qRCb">
     <mxGraphModel dx="1195" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,10 +46,10 @@
         <mxCell id="TdWRioPovqllGPAN-fCa-22" value="&lt;div&gt;single&lt;/div&gt;&lt;div&gt;loudspeaker&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;shadow=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="600" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TdWRioPovqllGPAN-fCa-23" value="Participant" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;shadow=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="TdWRioPovqllGPAN-fCa-23" value="participant" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;shadow=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="760" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TdWRioPovqllGPAN-fCa-24" value="Participant" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;shadow=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="TdWRioPovqllGPAN-fCa-24" value="participant" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;shadow=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="760" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TdWRioPovqllGPAN-fCa-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Direct Playback&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
